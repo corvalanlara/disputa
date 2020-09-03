@@ -9,3 +9,7 @@ h1 {
 ol {
 	list-style-type: upper-roman;
 }
+
+li {
+	padding: 0.5em;
+}
