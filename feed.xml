@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Disputa de las escritoras</title>
+		<link>https://corvalan.dev/disputa</link>
+		<description>Repositorio con los artículos publicados en la llamada «disputa de las escritoras»</description>
+		<language>es-cl</language>
+		<managingEditor>daniel@corvalan.dev</managingEditor>
+		<webMaster>daniel@corvalan.dev</webMaster>
+		<lastBuildDate>Wed, 09 Sep 2020 12:33:00 GMT</lastBuildDate>
+		<ttl>1800</ttl>
+
+		<item>
+			<title>Cómo se construye una autora: algunas ideas para una discusión incómoda *</title>
+			<link>https://palabrapublica.uchile.cl/2020/08/24/como-se-construye-una-autora-algunas-ideas-
+para-una-discusion-incomoda/</link>
+			<author>Lorena Amaro</author>
+			<pubDate>Mon, 24 Aug 2020<pubDate>
+		</item>
+	</channel>
+</rss>
