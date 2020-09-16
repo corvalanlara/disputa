@@ -2,7 +2,7 @@ html {
 	font-family: Helvetica, sans-serif;
 }
 
-h1 {
+h1, .centrado {
 	text-align: center;
 }
 
