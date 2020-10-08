@@ -1,0 +1,22 @@
+@font-face {
+	font-family: Fell;
+	src: url('Fell.otf') format('opentype');
+}
+
+html {
+	font-family: "Fell", serif;
+	font-size: 1.2em;
+}
+
+h1, .centrado {
+	text-align: center;
+}
+
+ol {
+	list-style-type: upper-roman;
+	margin-left: 1.5em;
+}
+
+li {
+	padding: 0.5em;
+}
